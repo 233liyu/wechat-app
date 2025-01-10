@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"wxcloudrun-golang/db"
-	"wxcloudrun-golang/db/model"
+	"github.com/233liyu/wechat-app/db"
+	"github.com/233liyu/wechat-app/db/model"
 )
 
 const tableName = "Counters"
